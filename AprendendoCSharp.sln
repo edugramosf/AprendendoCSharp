@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoCSharp-Desfio", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-CalculaPoupanca", "P10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{22A1E139-B297-48BD-8DDC-3858E00404BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11-CalculaPoupanca2", "P11-CalculaPoupanca2\P11-CalculaPoupanca2.csproj", "{BD27E12F-619F-4F50-9224-0310E1FCEEEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{22A1E139-B297-48BD-8DDC-3858E00404BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A1E139-B297-48BD-8DDC-3858E00404BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A1E139-B297-48BD-8DDC-3858E00404BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD27E12F-619F-4F50-9224-0310E1FCEEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD27E12F-619F-4F50-9224-0310E1FCEEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD27E12F-619F-4F50-9224-0310E1FCEEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD27E12F-619F-4F50-9224-0310E1FCEEEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
