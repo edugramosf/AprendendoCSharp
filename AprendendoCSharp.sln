@@ -15,17 +15,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{2C41B4AC-C9CF-45A6-A427-231BFC4770F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{C5E28A2C-E3B4-4100-821D-9EBA51103626}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{C5E28A2C-E3B4-4100-821D-9EBA51103626}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condicionais\8-Condicionais2.csproj", "{E62A4B6D-DB70-4461-94D8-1EA881717C4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Condicionais2", "8-Condicionais\8-Condicionais2.csproj", "{E62A4B6D-DB70-4461-94D8-1EA881717C4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{3FDAC830-241B-4247-A90F-4F9C35478A16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{3FDAC830-241B-4247-A90F-4F9C35478A16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoCSharp-Desfio", "AprendendoCSharp-Desfio\AprendendoCSharp-Desfio.csproj", "{E6A0410C-6E2D-416E-AC35-D40F846F2E8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AprendendoCSharp-Desafio", "AprendendoCSharp-Desfio\AprendendoCSharp-Desafio.csproj", "{E6A0410C-6E2D-416E-AC35-D40F846F2E8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-CalculaPoupanca", "P10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{22A1E139-B297-48BD-8DDC-3858E00404BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10-CalculaPoupanca", "P10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{22A1E139-B297-48BD-8DDC-3858E00404BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11-CalculaPoupanca2", "P11-CalculaPoupanca2\P11-CalculaPoupanca2.csproj", "{BD27E12F-619F-4F50-9224-0310E1FCEEEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11-CalculaPoupanca2", "P11-CalculaPoupanca2\P11-CalculaPoupanca2.csproj", "{BD27E12F-619F-4F50-9224-0310E1FCEEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12-InvestimentoALongoPrazo", "P12-InvestimentoALongoPrazo\P12-InvestimentoALongoPrazo.csproj", "{19781B4F-FB18-4781-A469-A8E6C3A9838C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13-EncadeandoFor", "P13-EncadeandoFor\P13-EncadeandoFor.csproj", "{A83B5C15-1457-4B1C-BEF8-4BF7210F2FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercitandoForEBreak", "ExercitandoForEBreak\ExercitandoForEBreak.csproj", "{AC0B54A1-6848-4520-B237-FCAA7E2F9AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioMultiplosDe3", "DesafioMultiplosDe3\DesafioMultiplosDe3.csproj", "{708C8790-4DD2-47D5-A012-10AA00D69517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFatorial", "DesafioFatorial\DesafioFatorial.csproj", "{22495F39-CF20-4CC3-8A9D-0F52A038C8AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +91,26 @@ Global
 		{BD27E12F-619F-4F50-9224-0310E1FCEEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD27E12F-619F-4F50-9224-0310E1FCEEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD27E12F-619F-4F50-9224-0310E1FCEEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19781B4F-FB18-4781-A469-A8E6C3A9838C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19781B4F-FB18-4781-A469-A8E6C3A9838C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19781B4F-FB18-4781-A469-A8E6C3A9838C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19781B4F-FB18-4781-A469-A8E6C3A9838C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83B5C15-1457-4B1C-BEF8-4BF7210F2FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83B5C15-1457-4B1C-BEF8-4BF7210F2FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83B5C15-1457-4B1C-BEF8-4BF7210F2FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83B5C15-1457-4B1C-BEF8-4BF7210F2FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0B54A1-6848-4520-B237-FCAA7E2F9AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0B54A1-6848-4520-B237-FCAA7E2F9AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0B54A1-6848-4520-B237-FCAA7E2F9AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0B54A1-6848-4520-B237-FCAA7E2F9AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708C8790-4DD2-47D5-A012-10AA00D69517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708C8790-4DD2-47D5-A012-10AA00D69517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708C8790-4DD2-47D5-A012-10AA00D69517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708C8790-4DD2-47D5-A012-10AA00D69517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22495F39-CF20-4CC3-8A9D-0F52A038C8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22495F39-CF20-4CC3-8A9D-0F52A038C8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22495F39-CF20-4CC3-8A9D-0F52A038C8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22495F39-CF20-4CC3-8A9D-0F52A038C8AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
