@@ -4,7 +4,7 @@ class Programa1
 { 
 static void Main(string[] args)
     {
-        Console.WriteLine("Projeto 2 - Criando Variáveis");
+        Console.WriteLine("Executando o projeto 2 - Criando Variáveis");
         int idade;
         idade = 27;
 

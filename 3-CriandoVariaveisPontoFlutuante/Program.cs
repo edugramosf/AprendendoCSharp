@@ -5,7 +5,7 @@ class Programa2
     static void Main(string[] args)
 
     {
-        Console.WriteLine("Projeto 3 - Variáveis Ponto Flutuante");
+        Console.WriteLine("Executando o projeto 3 - Variáveis Ponto Flutuante");
         double salario;
         salario = 3000.10;
 

@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Programa7
+class Programa8
 {
     static void Main(string[] args)
 
@@ -11,21 +11,13 @@ class Programa7
         bool acompanhadoPorAdulto = true;
 
 
-        if (idadeJoao >= 18)
+        if ((idadeJoao >= 18 || (idadeJoao <= 17) && (acompanhadoPorAdulto != false)))
         {
             Console.WriteLine("Pode entrar!");
         }
         else
         {
-            if ((idadeJoao <= 17) && (acompanhadoPorAdulto != false))
-            {
-                Console.WriteLine("Menor de 18 anos acompanhado por um responsável pode entrar!");
-            }
-            else
-            {
-                Console.WriteLine("Menor de 18 anos não pode entrar!");
-            }
-
+             Console.WriteLine("Menor de 18 anos não pode entrar!");
         }
 
 

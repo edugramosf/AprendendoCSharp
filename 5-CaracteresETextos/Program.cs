@@ -7,7 +7,7 @@ class Programa5
 
     {
 
-        Console.WriteLine("Executando o Projeto 5 - Caracteres e Textos");
+        Console.WriteLine("Executando o projeto 5 - Caracteres e Textos");
 
         char letra = 'a';
         Console.WriteLine(letra);
